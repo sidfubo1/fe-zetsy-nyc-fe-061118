@@ -26,6 +26,7 @@ h1 {
 .main_image img {
   width: 80%;
   height: 40%;
+  float: center;
   /*max-height: 500px;
   max-width: 200px;*/
 }
