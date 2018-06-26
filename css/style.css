@@ -23,7 +23,7 @@ h1 {
   font-size: 5em;
 }
 
-.main_image {
+.main_image img {
   width: 80%;
   height: 40%;
   max-height: 500px;
